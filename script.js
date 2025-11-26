@@ -1,2 +1,3 @@
-23218
-hiii
+const x = ()=>{
+  return 5;
+}
